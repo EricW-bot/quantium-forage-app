@@ -4,7 +4,7 @@
 . ./venv/bin/activate
 
 # run the test suite
-python -m pytest test_pink_morsel_visualiser.py
+python -m pytest --headless test_pink_morsel_visualiser.py
 
 # collect exit code from pytest
 # exit code is 0 if all tests pass
