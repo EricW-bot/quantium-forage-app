@@ -1,2 +1,2 @@
-# Quantium starter repo
-This repo contains everything you need to get started on the program! Good luck!
+# Quantium Forage Repo
+This repo contains my implementations of the Quantium Forage Dash Application project!
